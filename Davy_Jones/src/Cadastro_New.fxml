@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="200.0" prefWidth="300.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Cadastro_NewController">
+   <children>
+      <Pane layoutX="86.0" layoutY="-30.0" prefHeight="200.0" prefWidth="300.0" style="-fx-background-color: #b2ebf2;" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <Label layoutX="15.0" layoutY="65.0" text="Usuário:" />
+            <Label layoutX="15.0" layoutY="100.0" text="Senha:" />
+            <PasswordField fx:id="Senha_ID" layoutX="67.0" layoutY="96.0" prefHeight="25.0" prefWidth="219.0" />
+            <TextField fx:id="Usuário_ID" layoutX="67.0" layoutY="61.0" prefHeight="25.0" prefWidth="219.0" />
+            <Button layoutX="15.0" layoutY="161.0" mnemonicParsing="false" onAction="#Cadastro" prefWidth="70.0" text="Cadastrar" />
+            <Button layoutX="216.0" layoutY="161.0" mnemonicParsing="false" onAction="#Cancel_Button" prefWidth="70.0" text="Cancelar" />
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

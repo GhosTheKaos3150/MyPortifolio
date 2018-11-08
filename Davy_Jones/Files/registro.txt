@@ -1,0 +1,4 @@
+
+null
+Pontos do Player: -4
+Pontos da CPU: 2

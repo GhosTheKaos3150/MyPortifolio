@@ -1,0 +1,86 @@
+Davy Jones™
+
+O JOGO:
+
+- Para Iniciar o Jogo, clique em "INICIAR PARTIDA"
+
+- Coisas que você precisa saber:
+	- No jogo há os "Dados de Ouro" ou DO, e os "Dados de Sangue" ou DS. Eles são itens muito importantes
+	no jogo. A soma dos DO menos a soma dos DS irá lhe dar os pontos.
+	
+	- Há no jogo quatro tipos de Card que você pode retirar. São eles:
+		- A RAINHA: Lhe concede somente os pontos dos DO. Os pontos dos DS serão descartados.
+		- O REI: Iguala seus pontos aos de seus Adversários, independente do valor.
+		- O Valete: Lhe concede os pontos dos DO, e subtrai os DS dos pontos da CPU.
+		- O JOKER: Passa sua vez automáticamente.
+	Os cards também podem ser usados pela CPU, aleatóriamente.
+	
+	- Você pode jogar os "Dados Especiais". Eles permitem fazer quatro coisas:
+		- Adicionar 15 pontos ao seu placar.
+		- Diminuir 15 pontos ao placar da CPU.
+		- Zerar seus pontos.
+		- Zerar os pontos da CPU.
+	Você tem direito a 5 por rodada. A CPU não pode jogar dados especiais.
+
+---------------------------------------------------------------------------------------------------------------------------
+Como funciona?
+---------------------------------------------------------------------------------------------------------------------------
+- Ao Pressionar "JOGAR OS DADOS":
+	- Serão jogados três Dados de Ouro e três Dados de Sangue;
+	
+	Após, será feito o seguinte calculo:
+	
+	(DO1 + DO2 + DO3) - (DS1 + DS2 + DS3) = Seus Pontos.
+	
+	Após, o mesmo processo irá ocorrer com a CPU, com a adição de que ele poderá ou não puxar um card.
+
+- Ao Pressionar "PEGAR CARD":
+	- Você aciona o efeito de uma das Cartas;
+	- Se você Acionar o Efeito da Carta, você não jogará os dados normalmente e seguirá o processo do Card.
+	- A CPU jogará após você, podendo puxar um card ou não.
+
+- Ao Pressionar "JOGAR DADOS ESPECIAIS":
+	- Você ativa um dos 4 efeitos dos dados especiais.
+	- VOcê só pode fazer isso 5 vezes por partida.
+
+- Ao Pressionar "DESISTIR":
+	- Você altomaticamente perde o jogo.
+
+---------------------------------------------------------------------------------------------------------------------------
+Dificuldades do jogo:
+---------------------------------------------------------------------------------------------------------------------------
+
+- Dificuldade "Sopa de Galinha":
+	- 50 Pontos para vencer o jogo;
+	- A CPU não usará Dados Especiais;
+	- A CPU pode desistir quando você chegar a 75% da pontuação;
+	- A CPU poderá passar a vez;
+	- Você pode usar o D20 uma vez;
+
+- Dificuldade "Fácil":
+	- 75 pontos para vencer o jogo;
+	- A CPU não usará Dados Especiais;
+	- A CPU pode desistir quando você chegar a 75% da pontuação;
+	- A CPU pode passar a vez;
+	- Você pode usar o D20 uma vez;
+
+- Dificuldade "Regular":
+	- 85 pontos para vencer o jogo;
+	- A CPU pode usar os Dados Especiais;
+	- A CPU pode desistir quando você chegar a 75% da pontuação;
+	- A CPU pode passar a vez;
+	- Você não pode usar o D20;
+
+- Dificuldade "Difícil":
+	- 100 pontos para vencer o jogo;
+	- A CPU pode usar os Dados Especiais;
+	- A CPU Não desistirar;
+	- A CPU pode passar a vez;
+	- Você não pode usar o D20;
+
+- Dificuldade "Fácil":
+	- 75 pontos para vencer o jogo;
+	- A CPU pode usar os Dados Especiais;
+	- A CPU não desistirar;
+	- A CPU não passará a vez.
+	- Você não pode usar o D20;

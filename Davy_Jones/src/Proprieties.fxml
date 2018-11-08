@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="300.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ProprietiesController">
+   <children>
+      <Pane layoutX="41.0" layoutY="14.0" prefHeight="300.0" prefWidth="400.0" style="-fx-background-color: #b2ebf2;" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <Label layoutX="14.0" layoutY="14.0" text="Dificuldade:">
+               <font>
+                  <Font name="Courier New" size="12.0" />
+               </font>
+            </Label>
+            <CheckBox fx:id="EnableSpecialCPU" layoutX="14.0" layoutY="95.0" mnemonicParsing="false" onAction="#setCPUEspecial" text="Permitir CPU usar Dados Especiais">
+               <font>
+                  <Font name="Courier New" size="12.0" />
+               </font>
+            </CheckBox>
+            <Separator layoutX="4.0" layoutY="79.0" prefHeight="16.0" prefWidth="393.0" />
+            <MenuButton layoutX="14.0" layoutY="46.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="259.0" text="MenuButton">
+               <items>
+                <MenuItem mnemonicParsing="false" onAction="#Sopa" text="Sopa de legumes" />
+                  <MenuItem mnemonicParsing="false" onAction="#EasyPeeze" text="Fácil" />
+                  <MenuItem mnemonicParsing="false" onAction="#Regular" text="Médio" />
+                  <MenuItem mnemonicParsing="false" onAction="#Hardway" text="Dificil" />
+                  <MenuItem mnemonicParsing="false" onAction="#MaesteOfDV" text="Mestre do Davy Jones" />
+               </items>
+            </MenuButton>
+            <CheckBox fx:id="EnableCPUGiveUp" layoutX="14.0" layoutY="120.0" mnemonicParsing="false" onAction="#setCPUGiveUp" text="Permitir CPU Desistir da Partida">
+               <font>
+                  <Font name="Courier New" size="12.0" />
+               </font>
+            </CheckBox>
+            <CheckBox fx:id="EnableCPUPassTurn" layoutX="14.0" layoutY="145.0" mnemonicParsing="false" onAction="#setCPUPassTurn" text="Permitir CPU Passar seu Turno">
+               <font>
+                  <Font name="Courier New" size="12.0" />
+               </font>
+            </CheckBox>
+            <CheckBox fx:id="EnableD20True" layoutX="14.0" layoutY="170.0" mnemonicParsing="false" onAction="#setD20True" text="Permitir Jogador de usar o D20">
+               <font>
+                  <Font name="Courier New" size="12.0" />
+               </font>
+            </CheckBox>
+            <Button layoutX="100.0" layoutY="236.0" mnemonicParsing="false" onAction="#exit" prefHeight="50.0" prefWidth="200.0" text="Salvar">
+               <font>
+                  <Font name="Courier New" size="12.0" />
+               </font>
+            </Button>
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>
