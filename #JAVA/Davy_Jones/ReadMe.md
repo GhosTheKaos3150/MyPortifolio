@@ -22,22 +22,24 @@ Int the game, you have the following itens to use:
 
 When you "Play the Dices", it throws 6 dices. They are:
 - The Golden Dices: Three dices of positive value.
-- The Bloddy Dices: Three dices of negative value.
+- The Bloody Dices: Three dices of negative value.
 
 The result of the dices is based in the following equation:
 
 SCORE += (GD1 + GD2 + GD3) - (BD1 + BD2 + BD3)
 
 If the value is a negative number, it will subtract that value from your score.
-If the value is a positive number, it will add that value from your score.
+If the value is a positive number, it will add that value to your score.
 
 ### The Cards:
 The cards changes the rules of the game. They are ramdomly chosen by the computer. There is the following cards in the game:
 
--The Queen: It adds only the Golden Dice points to your score, discarding the Bloody Dices.
--The King: Makes your points equal to your adversary points, no matter if they are higher or minor than yours.
--The Jack: It adds to your score the Golden Dice points, and subtract the Bloddy Dice points of the Adversary's score.
--The JOKER: Passes your turn automaticaly.
+- The Queen: It adds only the Golden Dice points to your score, discarding the Bloody Dices.
+- The King: Makes your points equal to your adversary points, no matter if they are higher or minor than yours.
+- The Jack: It adds to your score the Golden Dice points, and subtract the Bloody Dice points of the Adversary's score.
+- The JOKER: Passes your turn automatically.
+
+That is the only game mechanic that the CPU can always use.
 
 ### The Special Dices:
 The Special Dices can be used 5 times per game. They have ramdom behavior.
@@ -46,8 +48,6 @@ The Special Dicas can, ramdomly:
 - Subtract 15 points from the CPU score.
 - Turn you score ZERO.
 - Turn the CPU score ZERO.
-
-That is the only game mechanic that the CPU can always use.
 
 ## ABOUT GAME DIFICULTY:
 There are 5 game difficulties:
