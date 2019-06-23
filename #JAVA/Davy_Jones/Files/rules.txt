@@ -74,13 +74,13 @@ Dificuldades do jogo:
 - Dificuldade "Difícil":
 	- 100 pontos para vencer o jogo;
 	- A CPU pode usar os Dados Especiais;
-	- A CPU Não desistirar;
+	- A CPU Não desistira;
 	- A CPU pode passar a vez;
 	- Você não pode usar o D20;
 
-- Dificuldade "Fácil":
+- Dificuldade "Fácil?":
 	- 75 pontos para vencer o jogo;
 	- A CPU pode usar os Dados Especiais;
-	- A CPU não desistirar;
+	- A CPU não desistira;
 	- A CPU não passará a vez.
 	- Você não pode usar o D20;
