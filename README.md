@@ -1,21 +1,18 @@
 # MyPortfolio
 
-Olá, pessoa! Se você caiu aqui, provavelmente você sae o que encontrar.
-Caso não, me chamo Uriel Anderson e este é meu repositório-portfólio. Aqui você encontrará alguns códigos, desenvolvidos por mim,
-e que considerei interessante de se compartilhar.
+Hello, Stranger! Welcome to my Portifolio.
+I'm Uriel Anderson, and if you reached this page, you know what you'll find here.
 
-# Regras de Uso:
+# Use Rules:
 
-1 - Se você for um ESTUDANTE, PROFESSOR, PROGRAMADOR e/ou for usar de forma PESSOAL, você pode usar livremente.
-2 - Se você for uma EMPRESA, CIENTISTA ou for usar COMERCIALMENTE o código, você NÃO pode usar livremente. Sinta-se a vontade em
-entrar em contato para saber como proceder. CASO SEJA DESRESPEITADO, AS COSEQUÊNCIAS SERÃO SEVERAS.
-3 - Em qualquer dos casos, antes de usar, por favor, entrar em contato por "uriel_anderson@hotmail.com". Isso ajudará a manter o
-controle do uso dos meus códigos!
+1 - It's for free use if you are a STUDENT, PROFESSOR or for PERSONAL USE.
+2 - It's NOT for free use if you are a COMPANY or for commercial use.
+3 - Before use this code, in any cases, contact me first at "uriel_anderson@hotmail.com".
 
-# Copyright:
+# Copyrights
 
-TODOS OS CÓDIGOS NESTA PÁGINA ESTÃO PROTEGIDOS PELA LEI BRASILEIRA DE DIREITOS AUTORAIS E LEI DO SOFTWARE.
-QUALQUER USO COMERCIAL, AUTORIZADO OU NÃO, ESTÁ SUJEITO A COBRANÇA DE DIREITOS AUTORAIS POR PARTE DO AUTOR.
-AS LEIS ACIMA SÃO RECONHECIDAS INTERNACIONALMENTE E, PORTANTO, VALIDAS EM TERRITÓRIO INTERNACIONAL.
+ALL THE CODES HERE ARE PROTECTED BY THE BRASILIAN AUTHOR RIGHTS AND SOFTWARE LAW.
+ALL COMERCIAL USES OF THIS CODE, AUTHORIED OR NOT, WILL IMPLICATE ON COPYRIGHT'S PAYMENT.
+THE LAWS ABOVE ARE INTERNATIONALLY ACEPTED.
 
-No mais, divirta-se com os códigos!
+By the way, enjoy them. Guess you will find fun there!
